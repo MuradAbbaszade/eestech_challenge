@@ -1,0 +1,24 @@
+Model Report for Tweet Sentiment Analysis (CNN)
+
+1. Model Architecture:
+   - Embedding Layer: vocab_size = X, embedding_dim = Y, input_length = Z
+   - Dropout Layer: rate = 0.5
+   - Conv1D Layers: filters = 256, kernel_size = 3, activation = 'relu' (x2)
+   - GlobalMaxPooling1D Layer
+   - Flatten Layer
+   - Dense Layers: units = 128, activation = 'relu' (x2), units = 1, activation = 'sigmoid'
+
+2. Training Details:
+   - Loss Function: binary_crossentropy
+   - Optimizer: Adam
+   - Metrics: Accuracy
+
+3. Training Results:
+   - Training Accuracy: X%
+   - Validation Accuracy: Y%
+   - Training Loss: X
+   - Validation Loss: Y
+
+4. Evaluation:
+   - Test Accuracy: Z%
+   - Test Loss: X
