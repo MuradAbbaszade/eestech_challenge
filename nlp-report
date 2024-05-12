@@ -10,9 +10,5 @@ Model Report for Tweet Sentiment Analysis (Random Forest)
    - Random State: 42
    - Stratification: Yes
 
-3. Training Results:
-   - Training Accuracy: X%
-   - Validation Accuracy: Y%
-
 4. Evaluation Results:
    - Test Accuracy: 88%
