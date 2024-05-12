@@ -14,11 +14,8 @@ Model Report for Tweet Sentiment Analysis (CNN)
    - Metrics: Accuracy
 
 3. Training Results:
-   - Training Accuracy: X%
-   - Validation Accuracy: Y%
-   - Training Loss: X
-   - Validation Loss: Y
+   - Test Accuracy: 73%
+   - Test Loss: 0.54
 
 4. Evaluation:
    - Test Accuracy: 74%
-   - Test Loss: X
